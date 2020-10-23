@@ -1,4 +1,4 @@
-package com.github.andrelugomes.cities.service;
+package br.bootcamp.citiesapi.cities.service;
 
 import static java.lang.Math.atan2;
 import static java.lang.Math.cos;
@@ -7,9 +7,9 @@ import static java.lang.Math.sqrt;
 import static java.lang.Math.toRadians;
 
 
-import com.github.andrelugomes.cities.entities.City;
-import com.github.andrelugomes.cities.repositories.CityRepository;
-import com.github.andrelugomes.utils.StringLocationUtils;
+import br.bootcamp.citiesapi.cities.entities.City;
+import br.bootcamp.citiesapi.cities.repositories.CityRepository;
+import br.bootcamp.citiesapi.utils.StringLocationUtils;
 import java.util.Arrays;
 import java.util.List;
 import org.slf4j.Logger;

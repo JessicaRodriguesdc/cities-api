@@ -1,6 +1,6 @@
 package br.bootcamp.citiesapi.staties.entities;
 
-import com.github.andrelugomes.countries.entities.Country;
+import br.bootcamp.citiesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import java.util.List;
 import javax.persistence.Basic;

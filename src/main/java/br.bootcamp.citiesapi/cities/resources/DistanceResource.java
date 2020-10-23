@@ -1,7 +1,7 @@
-package com.github.andrelugomes.cities.resources;
+package br.bootcamp.citiesapi.cities.resources;
 
-import com.github.andrelugomes.cities.service.DistanceService;
-import com.github.andrelugomes.cities.service.EarthRadius;
+import br.bootcamp.citiesapi.cities.service.DistanceService;
+import br.bootcamp.citiesapi.cities.service.EarthRadius;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;

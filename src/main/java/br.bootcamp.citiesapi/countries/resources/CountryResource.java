@@ -1,7 +1,7 @@
 package br.bootcamp.citiesapi.countries.resources;
 
-import com.github.andrelugomes.countries.entities.Country;
-import com.github.andrelugomes.countries.repositories.CountryRepository;
+import br.bootcamp.citiesapi.countries.entities.Country;
+import br.bootcamp.citiesapi.countries.repositories.CountryRepository;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

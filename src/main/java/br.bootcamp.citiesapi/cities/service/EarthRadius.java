@@ -1,4 +1,4 @@
-package com.github.andrelugomes.cities.service;
+package br.bootcamp.citiesapi.cities.service;
 
 public enum EarthRadius {
   METERS("m", 6378168),

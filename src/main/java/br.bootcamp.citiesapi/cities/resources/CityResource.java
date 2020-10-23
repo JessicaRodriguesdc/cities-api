@@ -1,7 +1,6 @@
-package com.github.andrelugomes.cities.resources;
-
-import com.github.andrelugomes.cities.entities.City;
-import com.github.andrelugomes.cities.repositories.CityRepository;
+package br.bootcamp.citiesapi.cities.resources;
+import br.bootcamp.citiesapi.cities.entities.City;
+import br.bootcamp.citiesapi.cities.repositories.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;

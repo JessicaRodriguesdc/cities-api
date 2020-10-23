@@ -1,7 +1,7 @@
 package br.bootcamp.citiesapi.staties.resources;
 
-import com.github.andrelugomes.staties.entities.State;
-import com.github.andrelugomes.staties.repositories.StateRepository;
+import br.bootcamp.citiesapi.staties.entities.State;
+import br.bootcamp.citiesapi.staties.repositories.StateRepository;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
