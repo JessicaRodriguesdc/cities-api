@@ -9,7 +9,6 @@ através de uma API REST, criada com o Spring Boot.
 
 ## Requirements
 
-* Linux
 * Git
 * Java 8
 * Docker
@@ -24,9 +23,9 @@ através de uma API REST, criada com o Spring Boot.
 
 ### Populate
 
-* [data](https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL)
+* [Data](https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL)
 * [Postgres Earth distance](https://www.postgresql.org/docs/current/earthdistance.html)
-* [earthdistance--1.0--1.1.sql](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.0--1.1.sql)
+* [Earthdistance--1.0--1.1.sql](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.0--1.1.sql)
 * [OPERATOR <@>](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.1.sql)
 * [postgrescheatsheet](https://postgrescheatsheet.com/#/tables)
 * [datatype-geometric](https://www.postgresql.org/docs/current/datatype-geometric.html)
